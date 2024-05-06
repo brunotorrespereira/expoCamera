@@ -1,6 +1,3 @@
-
-
-
 import React, { useEffect, useState, useRef } from 'react';
 import { StyleSheet, View, StatusBar, Text, TouchableOpacity, Modal,Dimensions } from 'react-native';
 import { Camera, useCameraDevice, useCameraPermission, useMicrophonePermission } 
@@ -194,8 +191,8 @@ if(videoUri){
   },
   videoContainer:{
     flex:1,
-    width:50,
-    height:100
+    width:'100%',
+    height:'100%'
   },
   button:{
    backgroundColor:'#fff',
