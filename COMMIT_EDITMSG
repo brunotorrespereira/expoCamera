@@ -1,7 +1,10 @@
-feat: Adicionando novo componente
 
-chore: Adicionando arquivos iniciais ao repositório
+
+feat: Adicionando arquivos iniciais ao repositório
 
 fix: Remover o componente Pages
 
 feat: Adicionando Arquivo COMMIT_EDITMSG
+
+chore: Corrigir erros de digitação no arquivo principal
+   
